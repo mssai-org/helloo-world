@@ -13,3 +13,7 @@ A-B = D
 
 #Adding a Method to perform a multplication of threeintigers:
 A*B*C = E
+
+#Adding Divison method on two Integers
+A/B =C
+
